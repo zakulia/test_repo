@@ -3,3 +3,4 @@
 3 steps to reproduce: 1,2,3
 4
 5 test case2
+6 info about test case2
